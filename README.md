@@ -9,10 +9,6 @@ Este proyecto es una aplicación interactiva que permite a los usuarios ingresar
 - **📜 Lista actualizada en tiempo real**: Los nombres ingresados se mostrarán automáticamente debajo del campo de entrada.  
 - **🎲 Sorteo aleatorio**: Con el botón "Sortear Amigo", la aplicación elige al azar un nombre de la lista y lo muestra en pantalla.  
 
-## 🚀 Cómo empezar  
-
-Sigue estos pasos para obtener una copia del proyecto y ejecutarlo localmente.  
-
 ### Requisitos previos  
 
 No necesitas instalar herramientas adicionales para ejecutar esta aplicación. Solo necesitas un navegador web como Chrome, Firefox o Edge. Si usas Visual Studio Code, puedes mejorar la experiencia con la extensión **Live Server**.  
